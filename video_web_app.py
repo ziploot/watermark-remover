@@ -1,4 +1,4 @@
-# ZipLoot AI Video & Image Watermark Remover (Inpainting Studio)
+# ZipLoot AI Video & Image Watermark Remover Studio
 import os
 import sys
 import time
